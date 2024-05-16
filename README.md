@@ -15,3 +15,7 @@ npm i
 ```cmd
 npm start
 ```
+
+# Resultado
+
+![texto_alternativo](img/agenda.png)
